@@ -1,0 +1,9 @@
+.search-bar {
+    margin: auto;
+    padding: 5px;
+}
+
+.search-input {
+    width: 200px;
+    margin-right: 5px;
+}
